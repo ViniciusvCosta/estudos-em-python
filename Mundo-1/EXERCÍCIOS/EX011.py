@@ -1,7 +1,6 @@
-larg = int(input('Altura: '))
-altu = int(input('Largura: '))
+larg = float(input('Altura: '))
+altu = float(input('Largura: '))
 mq = larg * altu 
 rend = int(input('Redimento do material em m²: '))
-resu = rend * mq
-most = resu / rend
-print('Você vai precisar de {} pra a {}m²'.format(most, mq))
+most = mq / rend
+print('Você vai precisar de {} pra a area de {}m²'.format(most, mq))
