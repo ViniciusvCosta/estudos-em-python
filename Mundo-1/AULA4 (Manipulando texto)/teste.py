@@ -1,2 +1,11 @@
-frase = 'Curso em Video Python'
-print(frase[:13])
+frase = '   Curso em Video Python  '
+print(len(frase))
+print(frase.count('o',0,20))
+print(frase.find('Android'))
+print('Curso'in frase)
+print(frase.replace('Python', 'Android'))
+print(frase.upper())
+print(frase.lower())
+print(frase.strip())
+print(frase.split())
+print('-'.join(frase))
