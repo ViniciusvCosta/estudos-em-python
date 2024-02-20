@@ -6,3 +6,5 @@ elif n1 < n2:
     print('O numero {} é maior que {}'.format(n2,n1))
 elif n1 == n2:
     print('Os dois numeros que voce digitou são iguais')
+
+#Outra maneira seria usando o else para quando os dois numeros forem iguais 
