@@ -1,3 +1,4 @@
+print('ESCOLA MAMACO ARANHA')
 nome = str(input('Digite o nome do aluno(a): '))
 nota1 = float(input('Digite a nota do PRIMEIRO bimestre: '))
 nota2 = float(input('Digite a nota do SEGUNDO bimestre: '))
