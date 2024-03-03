@@ -1,0 +1,4 @@
+Aqui nessa pasta estão testes e experimentos com python.
+Nesse arquivo todos os programas serão documentados e seu funcionamento e finalidade 
+serão explicados em detalhes.
+
