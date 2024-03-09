@@ -2,3 +2,13 @@ Aqui nessa pasta estão testes e experimentos com python.
 Nesse arquivo todos os programas serão documentados e seu funcionamento e finalidade 
 serão explicados em detalhes.
 
+C.M.E -> Calculadora de Media Escolar.
+    
+    Finalidade
+    Um programa que calcula a media escolar com base em notas bimestrais. Feito com foco em ajudar professores a agilizar
+o processo de calculo das medias ao fim do ano letivo.
+
+    Funcionamento
+    O usuario ira enserir o nome do aluno, em seguida a nota dele de casa bimestre. O programa ira somar as notas e dividilas
+por 4(quatro) para assimchegar na media e retorna o resultado
+    O resultado pode ser, APROVADO, REPROVADO e RECUPARAÇÂO.
