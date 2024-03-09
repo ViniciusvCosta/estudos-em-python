@@ -1,4 +1,4 @@
-print('\033[mC.M.E')
+print('C.M.E')
 #entrada de dados (nome, notas bimestrais)
 nome = input('NOME DO ALUNO:')
 n1 = float(input('Nota primeiro bimestre: '))
