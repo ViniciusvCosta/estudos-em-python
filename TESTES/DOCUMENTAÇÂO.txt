@@ -12,3 +12,9 @@ o processo de calculo das medias ao fim do ano letivo.
     O usuario ira enserir o nome do aluno, em seguida a nota dele de casa bimestre. O programa ira somar as notas e dividilas
 por 4(quatro) para assimchegar na media e retorna o resultado
     O resultado pode ser, APROVADO, REPROVADO e RECUPARAÇÂO.
+
+
+    Calculadora I.M.C.
+
+        Finalidade
+        Um programa que calcula seu IMC(indece de massa corporal)
