@@ -16,5 +16,5 @@ por 4(quatro) para assimchegar na media e retorna o resultado
 
     Calculadora I.M.C.
 
-        Finalidade
-        Um programa que calcula seu IMC(indece de massa corporal)
+    Finalidade
+    Um programa que calcula seu IMC(indece de massa corporal)
