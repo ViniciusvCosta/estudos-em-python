@@ -10,7 +10,7 @@ while True:
     else:
         if temp[1] > maior:
             maior = temp[1]
-        elif temp[1] < menor[1]:
+        elif temp[1] < menor:
             menor = temp[1]
     princ.append(temp[:])
     temp.clear()
