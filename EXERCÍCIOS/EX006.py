@@ -1,6 +1,6 @@
 # Dobro, triplo, raiz quadrada
 
-n = int(input('Digite um nuemro '))
+n = int(input('Digite um nuemro: '))
 m1 = n * 2
 m2 = n * 3
 r = n ** 0.5 
