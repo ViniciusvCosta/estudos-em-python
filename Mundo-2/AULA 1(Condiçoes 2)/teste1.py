@@ -8,4 +8,3 @@ while True:
     elif nome in 'mamaco aranha':
         print('É hora do heroi (musica foda)')
         break
-    print('Prazer em te conhecer {}'.format(nome))
