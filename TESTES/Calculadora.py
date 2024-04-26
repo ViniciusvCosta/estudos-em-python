@@ -1,4 +1,4 @@
-print('-=' *20)
+print('-=' *30)
 resultado = 0
 num1 = int(input('Primeiro valor: '))
 num2 = int(input('Segunod valor: '))
@@ -10,6 +10,7 @@ print('''Escolha a operação
       Para novos valores [5]
       Para encerar [0]''')
 opecao = int(input('Sua escolha: '))
+print('-=' * 30)
 
 if opecao == 1:
     resultado = num1 + num2
@@ -37,4 +38,4 @@ elif opecao == 5:
 elif opecao == 0:
     print('Fim do programa!')
 
-print('-=' * 20)
+print('-=' * 30)
