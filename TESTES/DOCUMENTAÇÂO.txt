@@ -14,20 +14,12 @@ por 4(quatro) para assimchegar na media e retorna o resultado
     O resultado pode ser, APROVADO, REPROVADO e RECUPARAÇÂO.
 
 
-    Calculadora I.M.C.
+Calculadora I.M.C.
 
     Finalidade
     Um programa que calcula seu IMC(indece de massa corporal)
 
-    Pra que estou estudando
-    Qual é o obejetivo
-    onde quero chegar 
-    O que quero fazer
+Gerador de senha:
 
-    O que eu deveria fazer
-    sera que vale a pena
-    Sera que eu sirvo pra isso
-
-
-    eu gosto disso, mas não sei se vai dar certo
-    gostaria de poder fazer uma faculdade um ou algum curso mserio, mas não tenha dinheiro, disposição ou tempo para fazer isso
+    Finalidade:
+    gera uma senha aleatora de letras, numeros e simbulos com 10 caracteres
