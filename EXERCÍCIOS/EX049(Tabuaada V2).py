@@ -1,3 +1,3 @@
-num = int(input('Digite um numero para ver sua tabuada: '))
-for c in range(1, 11):
-    print('{} x {:2} = {}'.format(num, c, num+c))
+num = int(input('Quer ver a tabuada de que numero: '))
+for c in range(1, 10+1):
+    print(f'{num} x {c:2} = {num*c}')
